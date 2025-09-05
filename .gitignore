@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# folders
+images
+videos
+yolo_weights
+
 # Distribution / packaging
 .Python
 build/
